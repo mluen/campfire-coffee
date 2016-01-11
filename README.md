@@ -1,2 +1,3 @@
 //This is my README file.
-QUACK
+Monday
+- Added variable in object literal format.
